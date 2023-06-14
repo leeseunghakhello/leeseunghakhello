@@ -1,4 +1,4 @@
-<div><h1>👋  Hi, there 👋</h1></div>
+<div><h1>👋  Hello, brother and sister 👋</h1></div>
 <div align = right> <a href="https://www.instagram.com/chaeng._.ni_/">
     <img 
         src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://instagram.com/chaeng._.ni_/"
@@ -20,7 +20,7 @@
 </a></div>
 👩‍🎓 UNIV. : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
-  🌱 I'm studying to be a backend Developer. 🌱 <br>
+  🌱 빠른 속도로 성장해 나아가는 백엔드 개발자 🌱 <br>
   <br>
 
 <div align=center><h3>💻 Current Learning 💻</h3>
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
-	<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
   </div>
   <div align=center> 
    <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white">
@@ -41,7 +40,6 @@
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=AmazonS3&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white">
   </div>
     <div align=center> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
@@ -52,12 +50,12 @@
 </div>
 <div align=center><h3>✨ Most Used Languages ✨</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerlo127&layout=compact&theme=nightowl)](https://github.com/chaerlo127/chaerlo127)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghakhello&layout=compact&theme=nightowl)](https://github.com/chaerlo127/chaerlo127)
 
 
 <div align=center><h3>🌺 Github status 🌺</h3>
 
-[![chaerlo127's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerlo127&theme=nightowl&ount_private=true)](https://github.com/chaerlo127/github-readme-stats)
+[![chaerlo127's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerlo127&theme=nightowl&ount_private=true)](https://github.com/leeseunghakhello/github-readme-stats)
 
 
 <br>
