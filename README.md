@@ -55,7 +55,7 @@
 
 <div align=center><h3>🌺 Github status 🌺</h3>
 
-[![chaerlo127's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerlo127&theme=nightowl&ount_private=true)](https://github.com/leeseunghakhello/github-readme-stats)
+[![leeseunghakhello's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghakhello&theme=nightowl&ount_private=true)](https://github.com/leeseunghakhello/github-readme-stats)
 
 
 <br>
