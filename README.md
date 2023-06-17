@@ -1,23 +1,5 @@
 <div><h1>👋  Hello ladies and gentlemen 👋</h1></div>
-<div align = right> <a href="https://www.instagram.com/chaeng._.ni_/">
-    <img 
-        src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://instagram.com/chaeng._.ni_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:monynony0203@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:monynony0203@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://chaeng-ni.notion.site/e748ab73539f46b8b1f7d1e648206ae4">
-    <img 
-        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://monynony0203.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://monynony0203.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></div>
+
 👩‍🎓 UNIV. : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
   🌱 빠른 속도로 성장해 나아가는 백엔드 개발자 🌱 <br>
