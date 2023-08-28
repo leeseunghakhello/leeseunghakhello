@@ -2,7 +2,6 @@
 
 👩‍🎓 UNIV. : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
-  🌱 빠른 속도로 성장해 나아가는 백엔드 개발자 🌱 <br>
   <br>
 
 <div align=center><h3>💻 languages I've used 💻</h3>
