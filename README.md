@@ -1,5 +1,3 @@
-<div><h1>👋  hello bro and sister  👋</h1></div>
-
 👩‍🎓 UNIV. : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
   <br>
